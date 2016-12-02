@@ -1,5 +1,2 @@
-<style>
-  .blue-text {
-  Colour : blue}
-</style>
- <h1 class="blue-text">hello there </h1>
+
+ <h1 style="color=blue">hello there </h1>
